@@ -1,0 +1,7 @@
+Line with text
+Line with numbers 1234
+Line with both text and 1234
+None
+1234
+text
+Empty
