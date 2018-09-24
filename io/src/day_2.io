@@ -176,4 +176,22 @@ f close
 
 writeln("read matrix from file:")
 m2 m println
+writeln("------------------")
 
+
+/**
+ * Guesses
+ */
+
+ writeln("Guessing a random number")
+
+r := (Random value(1) * 100) floor
+
+for(i, 1, 10,
+	writeln("Attempt ", i, ": Try to guess")
+	g := File standardInput readLine asNumber
+	if (g == r, writeln("got it!") break, writeln("try again"))
+)
+
+writeln("The value was: ", r)
+writeln("------------------")
