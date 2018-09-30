@@ -1,0 +1,10 @@
+# Programing Language 3: Prolog
+
+Install Prolog
+- brew install gnu-prolog
+
+Rnning in command line
+- gprolog
+
+For Sublime Text 3
+- Instal Prolog package
