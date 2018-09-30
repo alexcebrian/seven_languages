@@ -5,6 +5,17 @@ Install Prolog
 
 Rnning in command line
 - gprolog
+- Create file with facts and inferences
+- Compile the file with `['file_name'].`
+- Test facts and inferences
 
 For Sublime Text 3
-- Instal Prolog package
+- Install Prolog package
+
+Tutorials
+- http://www.swi-prolog.org/pldoc/man?section=quickstart
+- http://www.doc.gold.ac.uk/~mas02gw/prolog_tutorial/prologpages/index.html#menu
+
+User forums
+- http://www.swi-prolog.org/forum
+- https://stackoverflow.com/questions/2402101/prolog-open-source-community-code-repository-blogs-forums
